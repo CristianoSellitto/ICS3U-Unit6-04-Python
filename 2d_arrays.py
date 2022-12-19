@@ -19,7 +19,7 @@ def add_numbers_in_2d_arrays(array):
 
 
 def main():
-    # Gets input and calls functions
+    # Gets input, generates numbers and calls functions
 
     array_2d = []
 
